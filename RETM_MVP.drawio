@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:14:18.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2471 YaBrowser/23.11.0.2471 Yowser/2.5 Safari/537.36" version="22.1.7" etag="-hnuXlD_tAuCk8CqTQRu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T09:39:00.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2471 YaBrowser/23.11.0.2471 Yowser/2.5 Safari/537.36" etag="tY10IsNMhBc0eRLFi6D8" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="yby_Cb1ldXEhW4t7scRq">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-9" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-8" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-5" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Avalanche &lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;C-chain&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="70" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-6" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Смарт-контракт&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="269" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-12" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Avalanche &lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Node&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="260" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-13" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;JSON-RPC сервер&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="310" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;REST API сервер&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="420" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-18" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="529.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-19" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="539.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-20" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Различные UI&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="549.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.397;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441.5" y="549.5" as="sourcePoint" />
+            <mxPoint x="441.51800000000003" y="449.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.397;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442" y="420" as="sourcePoint" />
+            <mxPoint x="441.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.397;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.583;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FgHNt3G3QbwC-B-KgTd8-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.5" y="240" as="sourcePoint" />
+            <mxPoint x="589" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-26" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Сервис комплаенса &lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;line-height:107%;mso-ansi-language:EN-US&quot; lang=&quot;EN-US&quot;&gt;KYC/AML&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;line-height:107%&quot;&gt; (??)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHNt3G3QbwC-B-KgTd8-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.397;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.909;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FgHNt3G3QbwC-B-KgTd8-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="241" as="sourcePoint" />
+            <mxPoint x="300" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
