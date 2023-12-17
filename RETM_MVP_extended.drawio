@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T08:21:26.660Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="xDOF0tDnxKHkpRVW7lPh" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T08:26:21.523Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="8m9VUdCFPv94N_SlTIKr" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="tTkT_D9K_i8SfMuSpS75">
     <mxGraphModel dx="1205" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-12" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Управляют транзакциями для токенов - выпуск, продажа&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="540" y="210" width="220" height="50" as="geometry" />
+          <mxGeometry x="540" y="210" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;dApp&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(состоит из смарт-контрактов и UI)&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="65" width="270" height="40" as="geometry" />
@@ -104,9 +104,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-36" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Хранится в блокчейне&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Операции проводятся смарт-контрактами&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="290" y="190" width="150" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1.007;exitY=0.176;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-36" source="7UqiYnJLGKccpZ4DQYdT-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="80" as="sourcePoint" />
@@ -129,17 +126,15 @@
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-42" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Различные UI&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-39">
           <mxGeometry width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="7UqiYnJLGKccpZ4DQYdT-42">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="sourcePoint" />
             <mxPoint x="460" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="615" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-44" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Представляют часть или весь актив реального мира для его выпуска, дистрибуции и/или получения дохода&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="310" y="20" width="300" height="30" as="geometry" />
+          <mxGeometry x="300" y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-45" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.152;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-44" source="7UqiYnJLGKccpZ4DQYdT-26">
           <mxGeometry relative="1" as="geometry">
@@ -147,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-46" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится в блокчейне&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается разработчиком смарт-контрактов&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="560.5" y="275" width="219.5" height="70" as="geometry" />
+          <mxGeometry x="540" y="275" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-46" source="7UqiYnJLGKccpZ4DQYdT-15">
           <mxGeometry relative="1" as="geometry">
@@ -194,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-57" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Предоставляет пользовательский интерфейс для всех операций&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="160" y="620" width="240" height="70" as="geometry" />
+          <mxGeometry x="300" y="620" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-58" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-57" source="7UqiYnJLGKccpZ4DQYdT-42">
           <mxGeometry relative="1" as="geometry">
@@ -209,16 +204,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-60" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="430" y="690" width="192.5" height="50" as="geometry" />
+          <mxGeometry x="470" y="690" width="152.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-61" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
-          <mxGeometry x="17.5" y="20" width="175" height="30" as="geometry" />
+          <mxGeometry x="13.863636363636363" y="20" width="138.63636363636365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-62" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
-          <mxGeometry x="7.5" y="10" width="175" height="30" as="geometry" />
+          <mxGeometry x="5.941558441558442" y="10" width="138.63636363636365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-63" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Различные кошельки&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
-          <mxGeometry width="175" height="30" as="geometry" />
+          <mxGeometry width="138.63636363636365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-64" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-67" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Является точкой входа в блокчейн, выбор зависит от поддерживаемых блокчейном кошельков&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="160" y="730" width="240" height="70" as="geometry" />
+          <mxGeometry x="300" y="740" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-68" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=-0.039;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-67" source="7UqiYnJLGKccpZ4DQYdT-62">
           <mxGeometry relative="1" as="geometry">
@@ -326,6 +321,21 @@
               <mxPoint x="460" y="540" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="7UqiYnJLGKccpZ4DQYdT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="615" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-36" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Хранится в блокчейне&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Операции проводятся смарт-контрактами&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="300" y="190" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-86" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 10px;&quot;&gt;Внешние сервисы&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=12 12;verticalAlign=top;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="270" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
