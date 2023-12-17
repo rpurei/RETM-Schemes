@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T07:46:28.859Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="V33UiAHsKML2deZ5WzBc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T07:55:20.790Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="iHVlBH3F7_IkwhDym3_6" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="tTkT_D9K_i8SfMuSpS75">
-    <mxGraphModel dx="1733" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-48" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится на web-сервере&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается фронтенд-разработчиком, разработчиком мобильных приложений для разных платформ&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="710" y="700" width="230" height="70" as="geometry" />
+          <mxGeometry x="910" y="710" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=0.916;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-48" source="7UqiYnJLGKccpZ4DQYdT-40">
           <mxGeometry relative="1" as="geometry">
@@ -175,6 +175,53 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="600" as="sourcePoint" />
             <mxPoint x="690" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-53" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится на web-сервере&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается бэкенд-разработчиком&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="910" y="620" width="210" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-53" source="7UqiYnJLGKccpZ4DQYdT-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-55" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Предоставляет данные и сервисы для работы UI&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="910" y="540" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-56" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-55" source="7UqiYnJLGKccpZ4DQYdT-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="525" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-57" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Предоставляет пользовательский интерфейс для всех операций&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="160" y="620" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-58" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-57" source="7UqiYnJLGKccpZ4DQYdT-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="728" y="633" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="370" y="630" />
+              <mxPoint x="390" y="630" />
+              <mxPoint x="380" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="690" width="192.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-61" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
+          <mxGeometry x="17.5" y="20" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-62" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
+          <mxGeometry x="7.5" y="10" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-63" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Различные кошельки&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-60">
+          <mxGeometry width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-64" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;entryX=0.215;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#999999;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="690" as="sourcePoint" />
+            <mxPoint x="600" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
