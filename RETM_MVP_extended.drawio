@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T07:36:56.638Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="-BYhLb6iX-fDH8E1TWTC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T07:46:28.859Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="V33UiAHsKML2deZ5WzBc" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="tTkT_D9K_i8SfMuSpS75">
-    <mxGraphModel dx="1027" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-8" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;JSON-RPC сервер&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="765" width="179" height="30" as="geometry" />
+          <mxGeometry x="580.75" y="390" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-10" value="&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Критерии&lt;/b&gt;:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Масштабируемость&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Безопасность&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Управление затратами&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Экосистема разработки&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Возможности смарт-контрактов&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Кандидаты&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Avalanche&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Solana&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Binance Smart Chain&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Наиболее приемлемый:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;Avalanche&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;fontSize=10;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="915" y="40" width="200" height="190" as="geometry" />
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="510" width="192.5" height="50" as="geometry" />
+          <mxGeometry x="540" y="600" width="192.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-40" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-39">
           <mxGeometry x="17.5" y="20" width="175" height="30" as="geometry" />
@@ -134,7 +134,7 @@
             <mxPoint x="360" y="360" as="sourcePoint" />
             <mxPoint x="460" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="525" />
+              <mxPoint x="460" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,12 +154,27 @@
             <mxPoint x="715" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-48" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится на web-сервере&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается фронтенд-разработчиком&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="570.5" y="660" width="220" height="70" as="geometry" />
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-48" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится на web-сервере&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается фронтенд-разработчиком, разработчиком мобильных приложений для разных платформ&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="710" y="700" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-48">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=0.916;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-48" source="7UqiYnJLGKccpZ4DQYdT-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="733" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-50" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;REST API сервер&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="500" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="500" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="600" as="sourcePoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
