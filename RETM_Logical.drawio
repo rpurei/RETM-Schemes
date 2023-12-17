@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:10:08.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="nXGKnktzzCfYlQNEQyhL" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T07:18:28.675Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="p5uMgRYIfbN0lIWcU33R" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="8aTEOe-QuroDj3xyR8eQ">
-    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-13" value="&lt;b&gt;Токенизация / Tokenization&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="280" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="AYj9zMjsYxJNHYWbNuNB-14" value="Выбор токена / Token selection:&lt;br&gt;&amp;nbsp;- ERC20&lt;br&gt;&amp;nbsp;- ERC721&lt;br&gt;&amp;nbsp;- ERC-3643" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AYj9zMjsYxJNHYWbNuNB-13" vertex="1">
+        <mxCell id="AYj9zMjsYxJNHYWbNuNB-14" value="Выбор токена / Token selection:&lt;br&gt;&amp;nbsp;- ERC-20&lt;br&gt;&amp;nbsp;- ERC-721 (NFT)&lt;br&gt;&amp;nbsp;- ERC-3643" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AYj9zMjsYxJNHYWbNuNB-13" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-15" value="Выбор блокчейна / Blockchain selection:&lt;br&gt;&amp;nbsp;- Avalanche&lt;br&gt;&amp;nbsp;- Solana&lt;br&gt;&amp;nbsp;- Binance Smart Chain&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AYj9zMjsYxJNHYWbNuNB-13" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-53" value="Страхование / Insurance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-28" vertex="1">
           <mxGeometry y="80" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BNTv6pmVv5CZ8vkfOmOB-1" value="Маркетинг/ Marketing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="AYj9zMjsYxJNHYWbNuNB-28">
+        <mxCell id="BNTv6pmVv5CZ8vkfOmOB-1" value="Маркетинг/ Marketing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-28" vertex="1">
           <mxGeometry y="120" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-37" value="&lt;b&gt;Юрисдикция / Jurisdiction&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
