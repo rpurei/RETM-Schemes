@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T07:25:00.296Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="e3JY-gJfMI5K5fkgzJDL" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T07:36:56.638Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="-BYhLb6iX-fDH8E1TWTC" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="tTkT_D9K_i8SfMuSpS75">
-    <mxGraphModel dx="1205" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-8" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;JSON-RPC сервер&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="390" width="179" height="30" as="geometry" />
+          <mxGeometry x="581" y="765" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-10" value="&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Критерии&lt;/b&gt;:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Масштабируемость&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Безопасность&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Управление затратами&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Экосистема разработки&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Возможности смарт-контрактов&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Кандидаты&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Avalanche&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Solana&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Binance Smart Chain&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Наиболее приемлемый:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;Avalanche&lt;span style=&quot;font-weight: var(--ui-font-weight-bold); color: rgb(21, 21, 21); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;fontSize=10;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="915" y="40" width="200" height="190" as="geometry" />
@@ -38,7 +38,7 @@
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-12" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Управляют транзакциями для токенов - выпуск, продажа&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="540" y="210" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;dApp&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;dApp&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(состоит из смарт-контрактов и UI)&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="65" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-19" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -58,7 +58,7 @@
             <mxPoint x="850" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="7UqiYnJLGKccpZ4DQYdT-17" target="7UqiYnJLGKccpZ4DQYdT-14">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="7UqiYnJLGKccpZ4DQYdT-17" target="7UqiYnJLGKccpZ4DQYdT-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="340" as="sourcePoint" />
             <mxPoint x="650" y="290" as="targetPoint" />
@@ -104,12 +104,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-36" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Представляют часть или полный актив реального мира для его выпуска, дистрибуции и/или получения дохода&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="300" y="30" width="290" height="30" as="geometry" />
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-36" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Хранится в блокчейне&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Операции проводятся смарт-контрактами&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="50" y="270" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=0.999;exitY=0.146;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-36" source="7UqiYnJLGKccpZ4DQYdT-26">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1.007;exitY=0.176;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-36" source="7UqiYnJLGKccpZ4DQYdT-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+              <mxPoint x="310" y="160" />
+              <mxPoint x="310" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="510" width="192.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-40" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-39">
+          <mxGeometry x="17.5" y="20" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-41" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-39">
+          <mxGeometry x="7.5" y="10" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-42" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Различные UI&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7UqiYnJLGKccpZ4DQYdT-39">
+          <mxGeometry width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="7UqiYnJLGKccpZ4DQYdT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-44" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Представляют часть или весь актив реального мира для его выпуска, дистрибуции и/или получения дохода&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="310" y="20" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-45" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.152;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-44" source="7UqiYnJLGKccpZ4DQYdT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="108" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-46" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится в блокчейне&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается разработчиком смарт-контрактов&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="560.5" y="275" width="219.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-46" source="7UqiYnJLGKccpZ4DQYdT-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-48" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Где&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Хранится на web-сервере&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Кем:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Создается фронтенд-разработчиком&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};dashed=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="570.5" y="660" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7UqiYnJLGKccpZ4DQYdT-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="733" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
