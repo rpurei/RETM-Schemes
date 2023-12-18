@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:12:40.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="BzJETPdoK4DigeiDwQDc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:18:19.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="2q-2wSoTSAcYghOhtu0U" version="22.1.11" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1628" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-318" value="Разработка и запуск MVP RETM" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#f7c382;align=left;spacingLeft=10;fontStyle=1" parent="AWKRcxGveRCCpjN7BTNo-858" vertex="1">
           <mxGeometry width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-356" value="48" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#f7c382;align=center;spacingLeft=10;spacingRight=8;fontSize=10;fontStyle=1" parent="AWKRcxGveRCCpjN7BTNo-858" vertex="1">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-356" value="49" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#f7c382;align=center;spacingLeft=10;spacingRight=8;fontSize=10;fontStyle=1" parent="AWKRcxGveRCCpjN7BTNo-858" vertex="1">
           <mxGeometry x="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-359" value="25.12.2023" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#f7c382;align=left;spacingLeft=10;spacingRight=8;fontSize=10;fontStyle=1" parent="AWKRcxGveRCCpjN7BTNo-858" vertex="1">
