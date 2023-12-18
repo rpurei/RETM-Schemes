@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T09:56:39.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="J_IZ-lfSkscAiqkKfCXc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T10:01:28.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="gpEmXf3_tQVEo6O8HYTz" version="22.1.11" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="956" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-857" value="11.03.2024" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#f7c382;align=left;spacingLeft=10;spacingRight=8;fontSize=10;fontStyle=1" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-858">
           <mxGeometry x="440" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-859" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Сокращения:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;PM - руководитель проекта&lt;br&gt;SA- системный аналитик&lt;br&gt;DO - инженер DevOps&lt;br&gt;QA - инженер QA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-859" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Сокращения:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PM &lt;/b&gt;- руководитель проекта&lt;br&gt;&lt;b&gt;SA&lt;/b&gt;- системный аналитик&lt;br&gt;&lt;b&gt;DO &lt;/b&gt;- инженер DevOps&lt;br&gt;&lt;b&gt;QA &lt;/b&gt;- инженер QA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="950" width="290" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-860" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -262,7 +262,7 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-880" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="600" y="50" width="90" height="39.85714285714286" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-444" value="Неделя 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#D6D6D6;align=left;fontStyle=0;fontSize=8;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-880">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-444" value="Неделя 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#D6D6D6;align=center;fontStyle=0;fontSize=8;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-880">
           <mxGeometry width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-879" value="" style="group;fontSize=8;" vertex="1" connectable="0" parent="AWKRcxGveRCCpjN7BTNo-880">
@@ -311,7 +311,7 @@
           <mxGeometry x="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-882" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="510" width="580" height="30" as="geometry" />
+          <mxGeometry x="30" y="570" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-883" value="mm-dd-yy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FBE1C0;align=left;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-882">
           <mxGeometry x="510" width="70" height="30" as="geometry" />
@@ -332,7 +332,7 @@
           <mxGeometry x="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-889" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="540" width="580" height="20" as="geometry" />
+          <mxGeometry x="30" y="600" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-890" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;QA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-889">
           <mxGeometry x="510" width="70" height="20" as="geometry" />
@@ -394,8 +394,29 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-909" value="mm-dd-yy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-903">
           <mxGeometry x="440" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-910" value="&lt;b&gt;Необходимые программно-аппаратные ресурсы:&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Тестовый контур:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый блокчейн&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый сервер приложений&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый сервер БД&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Боевой контур:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Нода блокчейна&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Сервер приложений&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Сервер БД&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Валюта блокчейна для публикации, тестовых транзакций&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-910" value="&lt;b&gt;Необходимые программно-аппаратные ресурсы:&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Тестовый контур&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый блокчейн&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый сервер приложений&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Тестовый сервер БД&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Боевой контур&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Нода блокчейна&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Сервер приложений&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Сервер БД&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;- Валюта блокчейна для публикации, тестовых транзакций&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="340" y="950" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-911" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="470" width="580" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-912" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;СА&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry x="510" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-913" value="Разработка&amp;nbsp;дизайна&amp;nbsp;UI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry x="30" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-914" value="3.4" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=right;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-915" value="XY days" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry x="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-916" value="mm-dd-yy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry x="370" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-917" value="mm-dd-yy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-911">
+          <mxGeometry x="440" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
