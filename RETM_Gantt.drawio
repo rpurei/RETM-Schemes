@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T10:30:07.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="WLaahfRmEg8Fd9YMqB77" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T10:31:31.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="2L2zXM-JuypHXKf6PwY1" version="22.1.11" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="956" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -610,7 +610,7 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-982" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="670" width="580" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-983" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;BE, SC, FE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-982">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-983" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;BE, SC, FE, DO&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-982">
           <mxGeometry x="510" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-984" value="Релиз предварительной версии" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-982">
@@ -715,7 +715,7 @@
         <mxCell id="AWKRcxGveRCCpjN7BTNo-1017" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="690" width="580" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AWKRcxGveRCCpjN7BTNo-1018" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;СА&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-1017">
+        <mxCell id="AWKRcxGveRCCpjN7BTNo-1018" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;BE, SC, FE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=center;spacingLeft=10;spacingRight=8;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-1017">
           <mxGeometry x="510" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AWKRcxGveRCCpjN7BTNo-1019" value="Доработка предварительной версии" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D6D6D6;fillColor=#FFFFFF;align=left;spacingLeft=10;fontSize=10;" vertex="1" parent="AWKRcxGveRCCpjN7BTNo-1017">
