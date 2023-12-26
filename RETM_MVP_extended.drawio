@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T11:29:21.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="j5BShq9OMqkmz_zNrKvj" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T11:37:18.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="_Vn22_xF29VFawz0t5OD" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="tTkT_D9K_i8SfMuSpS75">
     <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -338,9 +338,9 @@
           <mxGeometry x="300" y="190" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-88" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;Вопросы&lt;/font&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="40" y="870" width="1080" height="210" as="geometry" />
+          <mxGeometry x="40" y="870" width="1080" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-89" value="Как вывести токен на биржу?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-89" value="Как вывести токен на биржу? Зависит от биржи, у каждой свое API для этого." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
           <mxGeometry y="20" width="1080" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-90" value="Токен свой или существующий? Предмет обсуждения, есть свои плюсы и минусы." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#FF0000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
@@ -358,11 +358,11 @@
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-95" value="Как продавать токен за реальные деньги?&amp;nbsp;Есть схемы через PayPal и даже видел через карты VISA. Это делают определенные кошельки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
           <mxGeometry y="150" width="1080" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7UqiYnJLGKccpZ4DQYdT-96" value="Как вызвать смарт-контракт из другого блокчейна? Можно, гуглить cross chain smart contract call.&amp;nbsp;https://medium.com/@analogtime/introduction-to-cross-chain-smart-contract-execution-calls-analog-insights-f5e9b9110337&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
-          <mxGeometry y="170" width="1080" height="20" as="geometry" />
+        <mxCell id="7UqiYnJLGKccpZ4DQYdT-96" value="Как вызвать смарт-контракт из другого блокчейна? Можно, гуглить cross chain smart contract call.&amp;nbsp;&lt;br&gt;https://medium.com/@analogtime/introduction-to-cross-chain-smart-contract-execution-calls-analog-insights-f5e9b9110337&amp;nbsp;&lt;br&gt;https://chain.link/education-hub/cross-chain-smart-contracts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
+          <mxGeometry y="170" width="1080" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7UqiYnJLGKccpZ4DQYdT-93" value="Как связать каталог недвижимости с токеном?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;fontSize=9;" parent="7UqiYnJLGKccpZ4DQYdT-88" vertex="1">
-          <mxGeometry y="190" width="1080" height="20" as="geometry" />
+          <mxGeometry y="220" width="1080" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dLMJua0oXhPxZOQR7ofr-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0.571;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
