@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T10:24:36.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" version="24.0.2" etag="YRV1N1LYUeRxzoL6JsYN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T16:55:58.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="4JAtrWmWil8YkhbJL7Mc" version="24.0.4" type="github">
   <diagram name="Страница — 1" id="WoKETw-Qhi6QnB1UZ4ne">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6O7pvicnhSxle53OSgdo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6O7pvicnhSxle53OSgdo-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.784;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="6O7pvicnhSxle53OSgdo-10" target="6O7pvicnhSxle53OSgdo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-10" value="&lt;div&gt;&lt;b&gt;UserProfileModel (Профиль пользователя)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;email: str&lt;/div&gt;&lt;div&gt;status: str&lt;/div&gt;&lt;div&gt;auth_type: str&lt;/div&gt;&lt;div&gt;first_name: str&lt;/div&gt;&lt;div&gt;last_name: str&lt;/div&gt;&lt;div&gt;middle_name: Optional[str]&lt;/div&gt;&lt;div&gt;mobile_phone: str&lt;/div&gt;&lt;div&gt;lang: str&lt;/div&gt;&lt;div&gt;jurisdictions_list: List[JurisdictionModel]&lt;/div&gt;&lt;div&gt;roles_list: List[str]&lt;/div&gt;&lt;div&gt;checks_list: Optional[List[JurisdictionCheckModel]]&lt;/div&gt;&lt;div&gt;legal_fields: Optional[JSON]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.803;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="6O7pvicnhSxle53OSgdo-12" target="6O7pvicnhSxle53OSgdo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-12" value="&lt;b&gt;JurisdictionModel (Юрисдикция)&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;code: str&lt;/div&gt;&lt;div&gt;name: str&lt;/div&gt;&lt;div&gt;langs_list: List[JurisdictionLangModel]&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-13" value="&lt;b&gt;JurisdictionLangModel (Язык)&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;lang: str&lt;/div&gt;&lt;div&gt;content: Optional[str]&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-15" value="&lt;div&gt;&lt;b&gt;Список ролей (строк)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-17" value="&lt;b&gt;JurisdictionCheckModel (Проверка)&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;name: str&lt;/div&gt;&lt;div&gt;type: str&lt;/div&gt;&lt;div&gt;status: str&lt;/div&gt;&lt;div&gt;content: Optional[str]&lt;/div&gt;&lt;div&gt;jurisdiction_code: str&lt;/div&gt;&lt;div&gt;lang: str&lt;/div&gt;&lt;div&gt;roles_list: Optional[List[str]]&lt;/div&gt;&lt;div&gt;note: Optional[str]&lt;/div&gt;&lt;div&gt;legal_fields: Optional[JSON]&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6O7pvicnhSxle53OSgdo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.843;exitDx=0;exitDy=0;entryX=0.003;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="6O7pvicnhSxle53OSgdo-10" target="6O7pvicnhSxle53OSgdo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
