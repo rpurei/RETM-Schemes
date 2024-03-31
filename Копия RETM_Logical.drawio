@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T15:29:53.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="d23Gft7dznbCo83ioc0n" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T15:36:14.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="eEwxd6VGuWnEboE-p0uB" version="24.2.0" type="github">
   <diagram name="Страница — 1" id="8aTEOe-QuroDj3xyR8eQ">
-    <mxGraphModel dx="1980" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1459" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-7" value="&lt;b&gt;Обеспечение целостности&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="40" width="280" height="240" as="geometry" />
+          <mxGeometry x="1230" y="170" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AYj9zMjsYxJNHYWbNuNB-8" value="Использование блокчейна" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-7" vertex="1">
+        <mxCell id="AYj9zMjsYxJNHYWbNuNB-8" value="Использование блокчейна для обеспечения доверия к данным транзакций" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-7" vertex="1">
           <mxGeometry y="40" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-45" value="Взаимодействие с биржами / Marketplace operation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-7" vertex="1">
@@ -19,11 +19,8 @@
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-35" value="Выполнение требований KYC/ AML при покупке-продаже токенов / KYC/ AML compliance of buy-sell opearations" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-7" vertex="1">
           <mxGeometry y="140" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AYj9zMjsYxJNHYWbNuNB-46" value="Обеспечение безопасности / Security" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-7" vertex="1">
-          <mxGeometry y="200" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-13" value="&lt;b&gt;Токенизация&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="40" width="280" height="230" as="geometry" />
+          <mxGeometry x="840" y="170" width="280" height="230" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-14" value="Выбор токена / Token selection:&lt;br&gt;&amp;nbsp;- ERC-20&lt;br&gt;&amp;nbsp;- ERC-721 (NFT)&lt;br&gt;&amp;nbsp;- ERC-3643" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AYj9zMjsYxJNHYWbNuNB-13" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
@@ -38,7 +35,7 @@
           <mxGeometry y="190" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-22" value="&lt;b&gt;Оцифровка актива&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="280" height="290" as="geometry" />
+          <mxGeometry x="450" y="170" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-24" value="&lt;font&gt;Финансовая структура:&lt;br&gt;&amp;nbsp;- Инвестиционный фон недвижимости (REIT)&lt;br&gt;&amp;nbsp;- Фонд недвижимости&lt;br&gt;&amp;nbsp;- Финансирование строящихся объектов&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;- Обеспечение токенов&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AYj9zMjsYxJNHYWbNuNB-22" vertex="1">
           <mxGeometry y="40" width="280" height="80" as="geometry" />
@@ -56,7 +53,7 @@
           <mxGeometry y="250" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-37" value="&lt;b&gt;Юрисдикция&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="280" height="80" as="geometry" />
+          <mxGeometry x="90" y="170" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-38" value="Требования законодательства" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AYj9zMjsYxJNHYWbNuNB-37" vertex="1">
           <mxGeometry y="40" width="280" height="40" as="geometry" />
@@ -64,21 +61,42 @@
         <mxCell id="AYj9zMjsYxJNHYWbNuNB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.14;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="AYj9zMjsYxJNHYWbNuNB-37" target="AYj9zMjsYxJNHYWbNuNB-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="63" />
+              <mxPoint x="370" y="193" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XwpiXils2I6dUQmR3zYr-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYj9zMjsYxJNHYWbNuNB-22" target="AYj9zMjsYxJNHYWbNuNB-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="180" as="sourcePoint" />
-            <mxPoint x="790" y="130" as="targetPoint" />
+            <mxPoint x="750" y="310" as="sourcePoint" />
+            <mxPoint x="800" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XwpiXils2I6dUQmR3zYr-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYj9zMjsYxJNHYWbNuNB-13" target="AYj9zMjsYxJNHYWbNuNB-7">
+        <mxCell id="XwpiXils2I6dUQmR3zYr-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYj9zMjsYxJNHYWbNuNB-13" target="AYj9zMjsYxJNHYWbNuNB-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="360" as="sourcePoint" />
-            <mxPoint x="1170" y="310" as="targetPoint" />
+            <mxPoint x="1130" y="490" as="sourcePoint" />
+            <mxPoint x="1180" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-15" value="&lt;b&gt;Проведение транзакций&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="170" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-16" value="Продажа/&lt;span style=&quot;background-color: initial;&quot;&gt;покупка токенов&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="XwpiXils2I6dUQmR3zYr-15">
+          <mxGeometry y="40" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-17" value="Выдача займов под залог токенов/криптовалют" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;" vertex="1" parent="XwpiXils2I6dUQmR3zYr-15">
+          <mxGeometry y="70" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-18" value="Получение дохода от операций с токенами" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="XwpiXils2I6dUQmR3zYr-15">
+          <mxGeometry y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYj9zMjsYxJNHYWbNuNB-7" target="XwpiXils2I6dUQmR3zYr-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="270" as="sourcePoint" />
+            <mxPoint x="1550" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XwpiXils2I6dUQmR3zYr-21" value="Платформа RETM" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=12 12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="1870" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
