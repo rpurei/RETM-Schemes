@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T06:45:00.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Ry4qGtkwI7WU9GKj8r5C" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T07:44:54.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="mfQiU0mnu2M09sq147lg" version="24.2.1" type="github">
   <diagram name="Страница — 1" id="JRbik6_uBZYvw-bBDiSD">
-    <mxGraphModel dx="3080" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2132" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
         <mxCell id="XGVx-LcwlVfjTN6PvsQ9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XGVx-LcwlVfjTN6PvsQ9-50" source="XGVx-LcwlVfjTN6PvsQ9-14" target="XGVx-LcwlVfjTN6PvsQ9-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XGVx-LcwlVfjTN6PvsQ9-14" value="Репозиторий, ветка dev1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="XGVx-LcwlVfjTN6PvsQ9-50">
+        <mxCell id="XGVx-LcwlVfjTN6PvsQ9-14" value="Репозиторий, ветка dev" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="XGVx-LcwlVfjTN6PvsQ9-50">
           <mxGeometry x="2.842170943040401e-14" y="30" width="45" height="390" as="geometry" />
         </mxCell>
         <mxCell id="XGVx-LcwlVfjTN6PvsQ9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGVx-LcwlVfjTN6PvsQ9-50" source="XGVx-LcwlVfjTN6PvsQ9-15" target="XGVx-LcwlVfjTN6PvsQ9-6">
@@ -191,7 +191,7 @@
         <mxCell id="XGVx-LcwlVfjTN6PvsQ9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XGVx-LcwlVfjTN6PvsQ9-51" source="XGVx-LcwlVfjTN6PvsQ9-63" target="XGVx-LcwlVfjTN6PvsQ9-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XGVx-LcwlVfjTN6PvsQ9-63" value="Репозиторий, ветка devN" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="XGVx-LcwlVfjTN6PvsQ9-51">
+        <mxCell id="XGVx-LcwlVfjTN6PvsQ9-63" value="Репозиторий, ветка dev" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="XGVx-LcwlVfjTN6PvsQ9-51">
           <mxGeometry x="2.842170943040401e-14" y="30" width="45" height="390" as="geometry" />
         </mxCell>
         <mxCell id="XGVx-LcwlVfjTN6PvsQ9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGVx-LcwlVfjTN6PvsQ9-51" source="XGVx-LcwlVfjTN6PvsQ9-65" target="XGVx-LcwlVfjTN6PvsQ9-59">
